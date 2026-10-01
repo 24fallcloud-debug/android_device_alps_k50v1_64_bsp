@@ -16,7 +16,7 @@ $(call inherit-product, vendor/pb/config/common.mk)
 $(call inherit-product, device/alps/k50v1_64_bsp/device.mk)
 
 PRODUCT_DEVICE := k50v1_64_bsp
-PRODUCT_NAME := omni_k50v1_64_bsp
+PRODUCT_NAME := pbrp_k50v1_64_bsp
 PRODUCT_BRAND := alps
 PRODUCT_MODEL := k50v1_64_bsp
 PRODUCT_MANUFACTURER := alps

@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_k50v1_64_bsp.mk
+    $(LOCAL_DIR)/pbrp_k50v1_64_bsp.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_k50v1_64_bsp-user \
-    twrp_k50v1_64_bsp-userdebug \
-    twrp_k50v1_64_bsp-eng
+    pbrp_k50v1_64_bsp-user \
+    pbrp_k50v1_64_bsp-userdebug \
+    pbrp_k50v1_64_bsp-eng
