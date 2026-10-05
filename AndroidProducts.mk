@@ -5,8 +5,8 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_k50v1_64_bsp.mk
+    $(LOCAL_DIR)/omni_k50v1_64_bsp.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_k50v1_64_bsp-eng \
-    twrp_k50v1_64_bsp-userdebug
+    omni_k50v1_64_bsp-eng \
+    omni_k50v1_64_bsp-userdebug
